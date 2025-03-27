@@ -20,7 +20,7 @@ An advanced content optimization tool for a skiing YouTube channel that helps pr
 
 **Technologies:** Python (pandas, scikit-learn), Streamlit, Power BI
 
-**Links:** [GitHub Repository](https://github.com/yourusername/stompit-optimizer) | [Live Application](https://your-app-url.com) | [Report](https://your-report-url.com) | [Dashboard](https://your-dashboard-url.com)
+**Links:** [GitHub Repository](https://github.com/yourusername/stompit-optimizer) | [Web Application](https://your-app-url.com) | [Report](https://your-report-url.com) | [Dashboard](https://your-dashboard-url.com)
 
 ### 2. Analysis of Urban Cycling Traffic in Paris | Dec 2024
 
