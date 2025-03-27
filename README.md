@@ -36,6 +36,14 @@ A data analysis project that examined cycling patterns in Paris using counter da
 
 **Links:** [GitHub Repository](https://github.com/yourusername/paris-cycling-analysis) | [Report](https://your-report-url.com)
 
+## 🛠️ Technical Skills
+
+- **Programming:** Python (pandas, numpy, matplotlib, scikit-learn, seaborn, plotly), SQL, R
+- **Data Management:** Excel, Big Query
+- **Data Analysis:** Statistical Analysis, Time Series Analysis, Feature Engineering, Web Scraping
+- **Machine Learning:** Clustering (HDBSCAN, K-Means), XG Boost, Random Forest
+- **Data Visualization:** Power BI, Looker Studio, Tableau, PowerPoint
+  
 ## 🎓 Education & Certifications
 
 - **Google Data Analytics Certificate** - Google, 2025
@@ -58,14 +66,6 @@ A data analysis project that examined cycling patterns in Paris using counter da
 - **Scientific Content Editor** - ResearchGate (Mar 2014 - Mar 2015)
 - **Private English Tutor** - Freelance (May 2012 - May 2014)
 - **Logistics Specialist** - Exelis (Jan 2012 - Jan 2013)
-
-## 🛠️ Technical Skills
-
-- **Programming:** Python (pandas, numpy, matplotlib, scikit-learn, seaborn, plotly), SQL, R
-- **Data Management:** Excel, Big Query
-- **Data Analysis:** Statistical Analysis, Time Series Analysis, Feature Engineering, Web Scraping
-- **Machine Learning:** Clustering (HDBSCAN, K-Means), XG Boost, Random Forest
-- **Data Visualization:** Power BI, Looker Studio, Tableau, PowerPoint
 
 ## 🌐 Languages
 
