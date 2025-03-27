@@ -6,6 +6,7 @@ I'm a data enthusiast who loves turning numbers into stories! With a background 
 
 [LinkedIn](https://www.linkedin.com/in/yourlinkedin) | [Google Scholar](https://scholar.google.com/citations?user=yourid) | [Youtube](https://www.youtube.com/channel/UCsSwmmmezMFcwuC3jCU1dQA) | [Instagram](https://www.instagram.com/sendingitfromthecity/)
 
+
 ## 📊 Projects
 
 ### 1. Video Content Analysis & AI Optimization Tool for Stomp It Tutorials | Feb 2025
@@ -36,6 +37,7 @@ A data analysis project that examined cycling patterns in Paris using counter da
 
 **Links:** [GitHub Repository](https://github.com/yourusername/paris-cycling-analysis) | [Report](https://your-report-url.com)
 
+
 ## 🛠️ Technical Skills
 
 - **Programming:** Python (pandas, numpy, matplotlib, scikit-learn, seaborn, plotly), SQL, R
@@ -43,6 +45,7 @@ A data analysis project that examined cycling patterns in Paris using counter da
 - **Data Analysis:** Statistical Analysis, Time Series Analysis, Feature Engineering, Web Scraping
 - **Machine Learning:** Clustering (HDBSCAN, K-Means), XG Boost, Random Forest
 - **Data Visualization:** Power BI, Looker Studio, Tableau, PowerPoint
+
   
 ## 🎓 Education & Certifications
 
@@ -55,6 +58,7 @@ A data analysis project that examined cycling patterns in Paris using counter da
 - **BSc. Psychology** - Free University Berlin, 2017
 - **BSc. Physiology & Kinesiology** - University of Florida, 2011
 
+
 ## 💼 Professional Experience
 
 - **Educator** - John F. Kennedy School & Berlin Bilingual School (Aug 2019 - Dec 2024)
@@ -66,6 +70,7 @@ A data analysis project that examined cycling patterns in Paris using counter da
 - **Scientific Content Editor** - ResearchGate (Mar 2014 - Mar 2015)
 - **Private English Tutor** - Freelance (May 2012 - May 2014)
 - **Logistics Specialist** - Exelis (Jan 2012 - Jan 2013)
+
 
 ## 🌐 Languages
 
