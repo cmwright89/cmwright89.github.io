@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a data enthusiast who loves turning numbers into stories! With a background in academic research, I enjoy tackling complex problems and creating visualizations that make data accessible to everyone. Outside of my professional life, you can find me learning freestyle skiing, playing football (⚽), or creating content for my social media platforms. I'm passionate about using data to drive decisions and create positive impact.
+I'm a data enthusiast who loves turning numbers into stories! With a background in academic research, I enjoy tackling complex problems and creating visualizations that make data accessible to everyone. Outside of my professional life, you can find me learning freestyle skiing, playing football (⚽), or creating content for my social media platforms.  I'm passionate about using data to drive decisions and create positive impact, and I'm currently seeking opportunities in data analytics to apply these skills professionally.
 
 [LinkedIn](https://www.linkedin.com/in/yourlinkedin) | [Google Scholar](https://scholar.google.com/citations?user=yourid) | [Youtube](https://www.youtube.com/channel/UCsSwmmmezMFcwuC3jCU1dQA) | [Instagram](https://www.instagram.com/sendingitfromthecity/)
 
