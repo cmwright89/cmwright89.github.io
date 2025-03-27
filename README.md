@@ -1,10 +1,10 @@
-## 👋 Hi, I'm Chelsea
+## About Me
 
 I'm a data enthusiast who loves turning numbers into stories! With a background in academic research, I enjoy tackling complex problems and creating visualizations that make data accessible to everyone. Outside of my professional life, you can find me learning freestyle skiing, playing football (⚽), or creating content for my social media platforms.  I'm passionate about using data to drive decisions and create positive impact, and I'm currently seeking opportunities in data analytics to apply these skills professionally.
 
 [LinkedIn](https://www.linkedin.com/in/yourlinkedin) | [Google Scholar](https://scholar.google.com/citations?user=yourid) | [Youtube](https://www.youtube.com/channel/UCsSwmmmezMFcwuC3jCU1dQA) | [Instagram](https://www.instagram.com/sendingitfromthecity/)
 
-
+___
 ## 📊 Projects
 
 ### 1. Video Content Analysis & AI Optimization Tool for Stomp It Tutorials | Feb 2025
@@ -35,7 +35,7 @@ A data analysis project that examined cycling patterns in Paris using counter da
 
 **Links:** [GitHub Repository](https://github.com/yourusername/paris-cycling-analysis) | [Report](https://your-report-url.com)
 
-
+___
 ## 🛠️ Technical Skills
 
 - **Programming:** Python (pandas, numpy, matplotlib, scikit-learn, seaborn, plotly), SQL, R
@@ -44,7 +44,7 @@ A data analysis project that examined cycling patterns in Paris using counter da
 - **Machine Learning:** Clustering (HDBSCAN, K-Means), XG Boost, Random Forest
 - **Data Visualization:** Power BI, Looker Studio, Tableau, PowerPoint
 
-  
+___  
 ## 🎓 Education & Certifications
 
 - **Google Data Analytics Certificate** - Google, 2025
@@ -56,7 +56,7 @@ A data analysis project that examined cycling patterns in Paris using counter da
 - **BSc. Psychology** - Free University Berlin, 2017
 - **BSc. Physiology & Kinesiology** - University of Florida, 2011
 
-
+___
 ## 💼 Professional Experience
 
 - **Educator** - John F. Kennedy School & Berlin Bilingual School (Aug 2019 - Dec 2024)
@@ -69,13 +69,13 @@ A data analysis project that examined cycling patterns in Paris using counter da
 - **Private English Tutor** - Freelance (May 2012 - May 2014)
 - **Logistics Specialist** - Exelis (Jan 2012 - Jan 2013)
 
-
+___
 ## 🌐 Languages
 
 - English (Native)
 - German (C1 Proficiency)
 
----
+___
 
 *Based in Berlin, Germany and Grisons, Switzerland*
 
