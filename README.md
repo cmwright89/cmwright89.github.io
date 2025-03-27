@@ -4,7 +4,7 @@ I'm a data enthusiast who loves turning numbers into stories! With a background 
 
 [LinkedIn](https://www.linkedin.com/in/yourlinkedin) | [Google Scholar](https://scholar.google.com/citations?user=yourid) | [Youtube](https://www.youtube.com/channel/UCsSwmmmezMFcwuC3jCU1dQA) | [Instagram](https://www.instagram.com/sendingitfromthecity/)
 
-___
+
 ## 📊 Projects
 
 ### 1. Video Content Analysis & AI Optimization Tool for Stomp It Tutorials | Feb 2025
@@ -35,7 +35,7 @@ A data analysis project that examined cycling patterns in Paris using counter da
 
 **Links:** [GitHub Repository](https://github.com/yourusername/paris-cycling-analysis) | [Report](https://your-report-url.com)
 
-___
+
 ## 🛠️ Technical Skills
 
 - **Programming:** Python (pandas, numpy, matplotlib, scikit-learn, seaborn, plotly), SQL, R
