@@ -2,7 +2,7 @@
 
 I'm a data enthusiast who loves turning numbers into stories! With a background in academic research, I enjoy tackling complex problems and creating visualizations that make data accessible to everyone. Outside of my professional life, you can find me learning freestyle skiing, playing football (⚽), or creating content for my social media platforms.  I'm passionate about using data to drive decisions and create positive impact, and I'm currently seeking opportunities in data analytics to apply these skills professionally.
 
-[LinkedIn](https://www.linkedin.com/in/yourlinkedin) | [Google Scholar](https://scholar.google.com/citations?user=yourid) | [Youtube](https://www.youtube.com/channel/UCsSwmmmezMFcwuC3jCU1dQA) | [Instagram](https://www.instagram.com/sendingitfromthecity/)
+[LinkedIn](https://www.linkedin.com/in/chelsea-wright-9bb06a2b4/) | [Google Scholar](https://scholar.google.com/citations?hl=de&view_op=list_works&gmla=AOv-ny_CZM_7iTVt5v4GTHYDgZ-uG_z9aNdPylqvJgYxtioCUBWo7ZmFG4LWEST-YlPoRyEoHud9IFXM42WXB90NEMNUlJl257E&user=EZ1pQyUAAAAJ) | [Youtube](https://www.youtube.com/channel/UCsSwmmmezMFcwuC3jCU1dQA) | [Instagram](https://www.instagram.com/sendingitfromthecity/)
 
 
 ## 📊 Projects
@@ -19,7 +19,7 @@ An advanced content optimization tool for a skiing YouTube channel that helps pr
 
 **Technologies:** Python (pandas, scikit-learn), Streamlit, Power BI
 
-**Links:** [GitHub Repository](https://github.com/yourusername/stompit-optimizer) | [Web Application](https://your-app-url.com) | [Report](https://your-report-url.com) | [Dashboard](https://your-dashboard-url.com)
+**Links:** [GitHub Repository](https://github.com/cmwright89/StompItAIvideorecommender) | [Web Application](https://stompitaivideorecommender-rurkhgfxkpwdou8ssa3kjj.streamlit.app/) | [Report](https://drive.google.com/file/d/1gRpDzkMYZ_szxVCP7goX9EqLzv1nNr3r/view) | [Dashboard](https://drive.google.com/file/d/1maJ_6m5cXVmIdfwglhX1TxAzaINwO3_Z/view)
 
 ### 2. Analysis of Urban Cycling Traffic in Paris | Dec 2024
 
@@ -33,7 +33,7 @@ A data analysis project that examined cycling patterns in Paris using counter da
 
 **Technologies:** Python (pandas, scikit-learn, HDBSCAN), Power BI
 
-**Links:** [GitHub Repository](https://github.com/yourusername/paris-cycling-analysis) | [Report](https://your-report-url.com)
+**Links:** [GitHub Repository](https://github.com/cmwright89/Pariscyclingdata/tree/main) | [Report](https://drive.google.com/file/d/1Cz1kGgp-Ijs8Wm0QFaq4ESOs8hbeAWF4/view?usp=sharing)
 
 
 ## 🛠️ Technical Skills
