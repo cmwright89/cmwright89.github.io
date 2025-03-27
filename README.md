@@ -56,7 +56,7 @@ A data analysis project that examined cycling patterns in Paris using counter da
   - Developed behavioral coding schema for complex interactions and quality control
   - Structured complex research data and implemented data management protocols
 - **Scientific Content Editor** - ResearchGate (Mar 2014 - Mar 2015)
-- **Private English Tutor** Freelance (May 2012 - May 2014)
+- **Private English Tutor** - Freelance (May 2012 - May 2014)
 - **Logistics Specialist** - Exelis (Jan 2012 - Jan 2013)
 
 ## 🛠️ Technical Skills
