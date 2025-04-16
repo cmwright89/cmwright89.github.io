@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a data enthusiast who loves turning numbers into stories! With a background in academic research, I enjoy tackling complex problems and creating visualizations that make data accessible to everyone. Outside of my professional life, you can find me learning freestyle skiing, playing football (⚽), or creating content for my social media platforms.  I'm passionate about using data to drive decisions and create positive impact, and I'm currently seeking opportunities in data analytics to apply these skills professionally.
+I'm a data enthusiast who loves turning numbers into stories! With a background in academic research and marketing data analysis, I enjoy tackling complex problems and creating visualizations that make data accessible to everyone. Outside of my professional life, you can find me learning freestyle skiing, playing football (⚽), or creating content for my social media platforms.  I'm passionate about using data to drive decisions and create positive impact, and I'm currently seeking opportunities in data analytics to apply these skills professionally.
 
 [LinkedIn](https://www.linkedin.com/in/chelsea-wright-9bb06a2b4/) | [Google Scholar](https://scholar.google.com/citations?hl=de&view_op=list_works&gmla=AOv-ny_CZM_7iTVt5v4GTHYDgZ-uG_z9aNdPylqvJgYxtioCUBWo7ZmFG4LWEST-YlPoRyEoHud9IFXM42WXB90NEMNUlJl257E&user=EZ1pQyUAAAAJ) | [Youtube](https://www.youtube.com/channel/UCsSwmmmezMFcwuC3jCU1dQA) | [Instagram](https://www.instagram.com/sendingitfromthecity/)
 
@@ -40,7 +40,7 @@ A data analysis project that examined cycling patterns in Paris using counter da
 
 - **Programming:** Python (pandas, numpy, matplotlib, scikit-learn, seaborn, plotly), SQL, R
 - **Data Management:** Excel, Big Query
-- **Data Analysis:** Statistical Analysis, Time Series Analysis, Feature Engineering, Web Scraping
+- **Data Analysis:** Statistical Analysis, Google Analytics, Time Series Analysis, Feature Engineering, Web Scraping
 - **Machine Learning:** Clustering (HDBSCAN, K-Means), XG Boost, Random Forest
 - **Data Visualization:** Power BI, Looker Studio, Tableau, PowerPoint
 
@@ -60,11 +60,8 @@ ___
 ## 💼 Professional Experience
 
 - **Educator** - John F. Kennedy School & Berlin Bilingual School (Aug 2019 - Dec 2024)
-- **Co-founder & Operations Manager** - Wax Wrap GbR (Aug 2018 - Dec 2022)
+- **Co-founder & Operations/Digital Analytics Manager** - Wax Wrap GbR (Aug 2018 - Dec 2022)
 - **Research Assistant** - Max Planck Institute (Mar 2015 - Aug 2019)
-  - Worked in two research groups focusing on behavioral research and research data management
-  - Developed behavioral coding schema for complex interactions and quality control
-  - Structured complex research data and implemented data management protocols
 - **Scientific Content Editor** - ResearchGate (Mar 2014 - Mar 2015)
 - **Private English Tutor** - Freelance (May 2012 - May 2014)
 - **Logistics Specialist** - Exelis (Jan 2012 - Jan 2013)
@@ -77,5 +74,5 @@ ___
 
 ___
 
-*Based in Berlin, Germany and Grisons, Switzerland*
+*Based in Berlin, Germany*
 
