@@ -38,8 +38,8 @@ A data analysis project that examined cycling patterns in Paris using counter da
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Python (pandas, numpy, matplotlib, scikit-learn, seaborn, plotly), SQL, R
-- **Data Management:** Excel, Big Query
+- **Programming:** Python (pandas, numpy, matplotlib, scikit-learn, seaborn, plotly, PySpark), SQL, R
+- **Data Management:** Excel, Big Query, MS SQL Sever, ETL
 - **Data Analysis:** Statistical Analysis, Google Analytics, Time Series Analysis, Feature Engineering, Web Scraping
 - **Machine Learning:** Clustering (HDBSCAN, K-Means), XG Boost, Random Forest
 - **Data Visualization:** Power BI, Looker Studio, Tableau, PowerPoint
@@ -60,7 +60,7 @@ ___
 ## 💼 Professional Experience
 
 - **Educator** - John F. Kennedy School & Berlin Bilingual School (Aug 2019 - Dec 2024)
-- **Co-founder & Operations/Digital Analytics Manager** - Wax Wrap GbR (Aug 2018 - Dec 2022)
+- **Co-founder & Operations/Digital Analytics Manager** - Wax Wrap GbR (Feb 2018 - Dec 2022)
 - **Research Assistant** - Max Planck Institute (Mar 2015 - Aug 2019)
 - **Scientific Content Editor** - ResearchGate (Mar 2014 - Mar 2015)
 - **Private English Tutor** - Freelance (May 2012 - May 2014)
